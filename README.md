@@ -1,17 +1,18 @@
 ## Python
 
-This is a GitHub Repository providing series of phases diving deep into the core mechanisms of the Python language. This repo dose not provide instruction on how to install and run Python; instead prvides codes respective to the phases and its elements. Each pahses will have its elements on which codes will be shown with explanation.
+This is a GitHub Repository providing series of codes in phases diving deep into the core mechanisms of the Python language. This repo dose not provide instruction on how to install and run Python; instead prvides codes respective to the phases and its elements. Each pahses will have its elements on which codes will be shown with explanation.
 
 There are three pashes to this repository and within these phases are various elements. Concepts are drawn from various books, sites, and repositories. A list is available in the [Appendices](https://github.com/n-shaikh/python/tree/Appendices). The structure of this repository is as folows:
 
-1. [Phase 1 - The Beginning](https://github.com/n-shaikh/python/tree/Phase-1-Beginning)
+1. [Phase 1 - Beginning](https://github.com/n-shaikh/python/tree/Phase-1-Beginning)
 2. [Phase 2 - Beyond](https://github.com/n-shaikh/python/tree/Phase-2-Beyond)
 3. [Phase 3 - Journey](https://github.com/n-shaikh/python/tree/Phase-3-Journey)
 
-You can use the [editor on GitHub](https://github.com/n-shaikh/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Phase 1 - Beginning
+In this phase various programming environment is introduced. The structure in this phase is such that some topis are combined togather as one (e.g. Variables, expressions, statements, and Functions are combined as one topic). This enabled to provided a project based approach to coding. Similarly, _Strings_, _Lists_, _Dictionaries_, & _Tuples_ are explained within **Conditionals & Recursion** and **Iteration** sections. Later sections includes, Files, Classes (i.e. objects, functions, and methods), and Inherritance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+---------------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
