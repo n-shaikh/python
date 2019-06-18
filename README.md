@@ -2,7 +2,7 @@
 
 This is a GitHub Repository providing series of phases diving deep into the core mechanisms of the Python language. This repo dose not provide instruction on how to install and run Python; instead prvides codes respective to the phases and its elements. Each pahses will have its elements on which codes will be shown with explanation.
 
-There are three pashes to this repository and within these phases are various elements. Concepts are drawn from various books, sites, and repositories. A list is available in the Appendices
+There are three pashes to this repository and within these phases are various elements. Concepts are drawn from various books, sites, and repositories. A list is available in the [Appendices](https://github.com/n-shaikh/python/tree/Appendices).
 
 You can use the [editor on GitHub](https://github.com/n-shaikh/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
