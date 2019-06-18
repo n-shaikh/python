@@ -4,9 +4,9 @@ This is a GitHub Repository providing series of phases diving deep into the core
 
 There are three pashes to this repository and within these phases are various elements. Concepts are drawn from various books, sites, and repositories. A list is available in the [Appendices](https://github.com/n-shaikh/python/tree/Appendices). The structure of this repository is as folows:
 
-1. [Phase 1 - The Beginning](https://github.com/n-shaikh/python/tree/Phase-1---The-Beginning)
-2. [Phase 2 - Beyond](https://github.com/n-shaikh/python/tree/Phase-2---Beyond)
-3. [Phase 3 - Journey](https://github.com/n-shaikh/python/tree/Phase-3---Journey)
+1. [Phase 1 - The Beginning](https://github.com/n-shaikh/python/tree/Phase-1-Beginning)
+2. [Phase 2 - Beyond](https://github.com/n-shaikh/python/tree/Phase-2-Beyond)
+3. [Phase 3 - Journey](https://github.com/n-shaikh/python/tree/Phase-3-Journey)
 
 You can use the [editor on GitHub](https://github.com/n-shaikh/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
